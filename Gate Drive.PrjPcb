@@ -326,6 +326,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document18]
+DocumentPath=GateDrive.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=NC-Drill.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Gate Drive\Design Rule Check - GateDrive.html
 DItemRevisionGUID=
@@ -339,47 +373,67 @@ DocumentPath=Project Outputs for Gate Drive\GateDrive-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Gate Drive\GateDrive.GBL
+DocumentPath=Project Outputs for Gate Drive\GateDrive.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Gate Drive\GateDrive.GBO
+DocumentPath=Project Outputs for Gate Drive\GateDrive.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Gate Drive\GateDrive.GBP
+DocumentPath=Project Outputs for Gate Drive\GateDrive.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Gate Drive\GateDrive.GBS
+DocumentPath=Project Outputs for Gate Drive\GateDrive.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Gate Drive\GateDrive.GM1
+DocumentPath=Project Outputs for Gate Drive\GateDrive.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Gate Drive\GateDrive.GP1
+DocumentPath=Project Outputs for Gate Drive\GateDrive.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Gate Drive\GateDrive.GP2
+DocumentPath=Project Outputs for Gate Drive\GateDrive.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Gate Drive\GateDrive.GTL
+DocumentPath=Project Outputs for Gate Drive\GateDrive.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Gate Drive\GateDrive.GTO
+DocumentPath=Project Outputs for Gate Drive\GateDrive.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Gate Drive\GateDrive.GTP
+DocumentPath=Project Outputs for Gate Drive\GateDrive.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
+DocumentPath=Project Outputs for Gate Drive\GateDrive.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Gate Drive\GateDrive.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Gate Drive\GateDrive.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Gate Drive\GateDrive.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Gate Drive\GateDrive.REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Gate Drive\GateDrive.RUL
 DItemRevisionGUID=
 
 [Configuration1]
